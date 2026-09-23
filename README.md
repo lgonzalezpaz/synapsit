@@ -8,7 +8,7 @@ Inspirado en Foldit, Synapsit te reta a "sintonizar" la sinapsis de pacientes vi
 
 Haz clic en el botón de abajo para lanzar la aplicación:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lgonzalezpaz/synapsit/HEAD?urlpath=voila%2Frender%2Fapp.py)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lgonzalezpaz/synapsit/HEAD?urlpath=voila/render/app.py)
 
 ## ¿Qué es Synapsit?
 
