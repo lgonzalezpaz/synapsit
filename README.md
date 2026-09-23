@@ -2,7 +2,7 @@
 
 El juego de ciencia ciudadana para personalizar la neuromodulación.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lgonzalezpaz/synapsit/HEAD?urlpath=voila/render/app.py)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lgonzalezpaz/synapsit/HEAD?urlpath=voila/render/app.ipynb)
 
 ## ¿Qué es Synapsit?
 
@@ -12,7 +12,7 @@ Synapsit es un juego de ciencia ciudadana donde los jugadores ajustan parámetro
 
 Haz clic en el badge de arriba 👆 o en este enlace directo:
 
-https://mybinder.org/v2/gh/lgonzalezpaz/synapsit/HEAD?urlpath=voila/render/app.py
+https://mybinder.org/v2/gh/lgonzalezpaz/synapsit/HEAD?urlpath=voila/render/app.ipynb
 
 ## Características
 
