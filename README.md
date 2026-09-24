@@ -2,7 +2,12 @@
 
 El juego de ciencia ciudadana para personalizar la neuromodulación.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lgonzalezpaz/synapsit/blob/main/synapsit.ipynb)
+## 🎮 ¿Cómo jugar?
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ACC32xtZPqq1iD_nbxEbosE8pEbngu1Y)
+
+Haz clic en el badge de arriba para abrir el juego en Google Colab.
+Una vez abierto, ve a **"Entorno de ejecución" → "Ejecutar todas"** (o presiona `Ctrl + F9`) y espera unos segundos.
 
 ## ¿Qué es Synapsit?
 
@@ -10,14 +15,6 @@ Synapsit es un juego de ciencia ciudadana donde los jugadores ajustan parámetro
 de receptores y neuromoduladores para mejorar el EEG de pacientes virtuales. 
 Cada decisión que tomas contribuye a entrenar modelos de inteligencia artificial 
 para neuromodulación personalizada.
-
-## ¿Cómo jugar?
-
-1. Haz clic en el badge de arriba 👆 (o en este enlace directo: 
-   [Abrir en Colab](https://colab.research.google.com/github/lgonzalezpaz/synapsit/blob/main/synapsit.ipynb)).
-2. En Colab, ve al menú **"Entorno de ejecución" → "Ejecutar todas"** (o presiona `Ctrl+F9`).
-3. Espera unos segundos mientras se instalan las dependencias.
-4. ¡Listo! El juego aparecerá en la parte inferior con las perillas interactivas.
 
 ## Características
 
