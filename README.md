@@ -4,8 +4,7 @@ El juego de ciencia ciudadana para personalizar la neuromodulación.
 
 ## 🎮 ¿Cómo jugar?
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m260M4ue8P_UDenHGzIkbOEnhjxgREBg#offline=true&sandboxMode=true)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18_Xn8ArYCugIXoVMDCCHN3DkZNwKs8Ug#offline=true&sandboxMode=true)
 
 Haz clic en el badge de arriba para abrir el juego en Google Colab.
 Una vez abierto, ve a **"Entorno de ejecución" → "Ejecutar todas"** (o presiona `Ctrl + F9`) y espera unos segundos.
