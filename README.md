@@ -16,7 +16,7 @@ de receptores y neuromoduladores para mejorar el EEG de pacientes virtuales.
 Cada decisión que tomas contribuye a entrenar modelos de inteligencia artificial 
 para neuromodulación personalizada desarrollados por el Centro de Biomedicina Molecular (CBM) Dr. Humberto Fernández-Morán del Instituto Venezolano de Investigaciones Científicas (IVIC). 
 
-Esta propuesta cuenta con la aprobación del Servicio de Neurología del Hospital Universitario de Maracaibo - SAHUM en el marco de la Alianza CBM-IVIC-SAHUM
+Esta propuesta cuenta con la aprobación del Postgrado de Neurología del Hospital Universitario de Maracaibo - SAHUM en el marco de la Alianza CBM-IVIC-SAHUM
 
 ## Características
 
